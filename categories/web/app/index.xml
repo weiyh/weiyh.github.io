@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web/app on Yuhan Wei</title>
+    <link>https://weiyh.github.io/categories/web/app/</link>
+    <description>Recent content in web/app on Yuhan Wei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://weiyh.github.io/categories/web/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Climate Change News Line Bot</title>
+      <link>https://weiyh.github.io/project/climate-change-news-line-bot/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://weiyh.github.io/project/climate-change-news-line-bot/</guid>
+      <description>Completed on: October 2019 Skills / Tools Used: Java, Spring Framework (Spring Boot, Spring Scheduler), LINE Messaging API  A LINE Bot which retrieves Google Alerts&#39; RSS feeds periodically (every hour) and sends feeds information to LINE user.</description>
+    </item>
+    
+    <item>
+      <title>Envisioning Chinese Cinemas in the 21st Century</title>
+      <link>https://weiyh.github.io/project/envisioning-chinese-cinemas/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://weiyh.github.io/project/envisioning-chinese-cinemas/</guid>
+      <description>Client: Department of Foreign Languages and Literatures, National Chiao Tung University Completed on: December 2013 Skills / Tools Used: Adobe Photoshop, Html, CSS, Javascript, PHP, Wordpress  The symposium “Chinese Cinemas in the 21st Century: Production, Consumption, Imagination” aims to promote new ways of thinking about the study of Chinese cinemas by bringing together established scholars into a dynamic network that crosses disciplinary boundaries; drawing expertise from film studies, media and communications, comparative literature, and cultural studies.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>branding on Yuhan Wei</title>
+    <link>https://weiyh.github.io/categories/branding/</link>
+    <description>Recent content in branding on Yuhan Wei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://weiyh.github.io/categories/branding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COP Name Card</title>
+      <link>https://weiyh.github.io/project/cop-name-card/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://weiyh.github.io/project/cop-name-card/</guid>
+      <description>Client: Taiwan Youth Climate Coalition Completed on: December 2018 Skills / Tools Used: Adobe Photoshop, Microsoft PowerPoint  This name card is for Taiwan Youth Climate Coalition (TWYCC) to use in the Conference of the Parties (COP) , to connect with participants in the conference.</description>
+    </item>
+    
+  </channel>
+</rss>
